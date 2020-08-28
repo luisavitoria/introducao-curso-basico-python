@@ -1,0 +1,17 @@
+divisao inteira
+10//3 =3
+
+resto divisao
+10%3 = 1
+
+int(xxx)
+da o valor inteiro de xxx 
+
+len(texto)
+da o numero de caracteres de texto
+
+float
+numero com decimais 
+
+str :string 
+len: lenght 
